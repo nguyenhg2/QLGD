@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BaseManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCapNhatSuCo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormChiTietMuonTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDanhSachQuaHan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormGiangDuong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMuonTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNhapMuon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormNhapThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSuCo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormThemSuCo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
